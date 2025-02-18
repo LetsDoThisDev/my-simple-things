@@ -3,6 +3,9 @@ class Simple{
      System.out.println("Hello Java");
     System.out.println("Hello av");
     System.out.println("Hello dv");
+System.out.println("Hello K");
+System.out.println("Hello dv");
+System.out.println("Hello dv");
     System.out.println("Hello ng");
   
     }  
